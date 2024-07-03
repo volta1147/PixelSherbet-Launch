@@ -1,0 +1,5 @@
+런처의 경우 여따 적으면 되겠습니다 
+token.txt  : 봇 토큰
+myid.txt   : 주인 id(숫자로 된 거 있잖음)
+ttsin.txt  : tts 입력받을 채널 id
+ttsout.txt : tts 보낼 채널 id
