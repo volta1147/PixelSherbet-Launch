@@ -3,7 +3,7 @@ import sys
 import subprocess
 
 resp = ""
-repo = "https://github.com/volta1147/ProxieLBot-SE.git"
+repo = "https://github.com/volta1147/MetroVoltBot.git"
 
 def cmd():
     global resp
